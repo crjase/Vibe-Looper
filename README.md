@@ -4,7 +4,7 @@ you can use the configuration.cfg to set a custom background.
 
 # Requirments
 You'll need this, since I haven't finished it, therefor, I'm not going to compile it to an exe.
-- [Python3][https://www.python.org/]
+- [Python3](https://www.python.org/)
 
 # how to use
 Just put an audio file in the 'local_music' folder, open the app and click on import.
